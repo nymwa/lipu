@@ -16,3 +16,15 @@ S soweli li ijo.
 S meli li jan
 A 3 3|||M:PUNCT|||.|||0
 
+S ijo li pona.
+
+S telo li pona.
+
+S telo kili li suli.
+
+S meli li lili.
+
+S soweli lili li pona.
+
+S jan ni li suli.
+
